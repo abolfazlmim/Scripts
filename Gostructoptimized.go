@@ -1,3 +1,4 @@
+// [Golang] Writing memory efficient and CPU optimized Go Structs
 package main
 
 import (
