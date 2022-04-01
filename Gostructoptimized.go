@@ -1,5 +1,7 @@
-// [Golang] Writing memory efficient and CPU optimized Go Structs
-package main
+// optimized
+// Language: go
+// link: https://towardsdev.com/golang-writing-memory-efficient-and-cpu-optimized-go-structs-62fcef4dbfd0
+// [Golang] Writing memory efficient and CPU optimized Go Structspackage main
 
 import (
 	"fmt"
