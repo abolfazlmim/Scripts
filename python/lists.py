@@ -1,5 +1,5 @@
 #Here, I have created a dictionary by combining elements of two lists; one set of 
-# elements as keys and the other as values. #Python 
+# elements as keys and  the other as values. #Python 
 
 list_1 =[ 'name', 'age', 'city', 'country']
 list_2 = ['John', '25', 'Tehran', 'Iran ']
