@@ -6,3 +6,6 @@ print(url.info())
 header = url.info()
 print(header.as_string())
 print(url.getcod())
+ 
+  
+   
