@@ -8,3 +8,11 @@ print(header.as_string())
 print(url.getcod())
  
   
+# |￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+#    All signs point to an
+#         emphatic 'YES'.
+#|＿＿＿＿＿＿＿＿＿＿＿| 
+#             (\__/)    ||
+#             (•ㅅ•)   ||
+#            /  　  づ
+#|___________________________|
